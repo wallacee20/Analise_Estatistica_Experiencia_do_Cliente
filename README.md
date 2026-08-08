@@ -179,7 +179,7 @@ A análise estatística dos dados mostrou que a nova política implementada não
 
 ## 🧑‍💼 Sobre a Consultoria
 
-Este projeto foi conduzido por **AlmeidaTI**, especializado em:
+Este projeto foi conduzido por **Wallace Almeida**
 - Inteligência analítica para varejo
 - Diagnóstico estatístico de processos operacionais
 - Modelagem preditiva e suporte à tomada de decisão
